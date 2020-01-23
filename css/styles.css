@@ -1,0 +1,36 @@
+body{
+    background-color: #ea9abb;
+}
+
+h1{
+    color: blueviolet;
+}
+
+h2{
+    color: blue;
+}
+
+#topheader{
+    color: red;
+}
+
+.para{
+    color: brown;
+}
+
+img{
+    border-radius: 40%;
+    border: dotted 1px blue;
+}
+
+hr{
+    border-style: dashed;
+    border-radius: 8px;
+    color: black;
+    width: 500px;
+    height: 8px;
+}
+
+a:hover{
+    color: yellowgreen;
+}

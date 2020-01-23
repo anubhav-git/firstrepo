@@ -1,0 +1,27 @@
+div{
+    color: white;
+}
+
+#col1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: solid 2px black;
+    
+}
+
+#col2{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    margin-left: 202px;
+    border:solid 5px black;
+}
+
+#col3{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    margin-left: 412px;
+    border: solid 10px black;
+}
